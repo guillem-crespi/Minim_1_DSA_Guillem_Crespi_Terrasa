@@ -20,6 +20,7 @@ El projecte està totalment completat. Les rutes REST s'han provat correctament.
 
 ## Errors / problemes trobats
 - He tingut força problemes amb la nomenclatura al codi, ja que he anat mesclant la paraula "drone" i "drons" a les variables i a les rutes de l'API. Això em donava errors, ja que no em trobava els endpoints o les variables, però ja ho he unificat tot i funciona.
-
+## S'ha afegit posteriorment
+- He afegit captures on comprovo que funcionen correctament més funcions del programa.
 ---
 **Autor:** Guillem Crespi Terrasa
